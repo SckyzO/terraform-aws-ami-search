@@ -69,8 +69,8 @@ Limitations
 
 Authors
 -------
-Original author [Olivier Tassetti].
-Modified by Origami ITOPs
+* Original author [Olivier Tassetti].
+* Modified by Origami ITOPs
 
 License
 -------

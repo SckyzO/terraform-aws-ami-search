@@ -69,8 +69,8 @@ Limitations
 
 Authors
 -------
-
-Module managed by [Olivier Tassetti].
+Original author [Olivier Tassetti].
+Modified by Origami ITOPs
 
 License
 -------

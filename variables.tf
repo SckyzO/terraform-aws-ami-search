@@ -72,6 +72,7 @@ variable "amis_os_map_owners" {
         "suse-les"     = "013907871322" #amazon
         "suse-les-12"  = "013907871322" #amazon
         "windows"              = "801119661308" #amazon
+        "windows-2022-base"    = "801119661308" #amazon
         "windows-2019-base"    = "801119661308" #amazon
         "windows-2016-base"    = "801119661308" #amazon
         "windows-2012-r2-base" = "801119661308" #amazon

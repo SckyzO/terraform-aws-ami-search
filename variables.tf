@@ -36,6 +36,7 @@ variable "amis_os_map_regex" {
       "suse-les"     = "^suse-sles-12-sp\\d-v\\d{8}-hvm-ssd-x86_64"
       "suse-les-12"  = "^suse-sles-12-sp\\d-v\\d{8}-hvm-ssd-x86_64"
       windows      = "^Windows_Server-2019-English-Full-Base-.*"
+      "windows-2022-base"    = "^Windows_Server-2022-English-Full-Base-.*"
       "windows-2019-base"    = "^Windows_Server-2019-English-Full-Base-.*"
       "windows-2016-base"    = "^Windows_Server-2016-English-Full-Base-.*"
       "windows-2012-r2-base" = "^Windows_Server-2012-R2_RTM-English-64Bit-Base-.*"
